@@ -41,11 +41,11 @@
 ||discordapp.com
 ||discordapp.net
 ||dish.com
-|http://img.dlsite.jp/
+|http://img.dlsite.jp
 ||dm530.net
 ||dmhy.org
 ||dmm.co.jp
-|http://www.dmm.com/netgame
+|http://www.dmm.com
 ||dnvod.tv
 ||dubox.com
 ||dvdpac.com
@@ -133,7 +133,7 @@
 ||mybet.com
 ||mypikpak.com
 ||nationwide.com
-|http://www.nbc.com/live
+|http://www.nbc.com
 ||neo-miracle.com
 ||netflix.com
 ||netflix.net
@@ -163,7 +163,7 @@
 ||pandora.com
 ||parkansky.com
 ||phmsociety.org
-|http://pimg.tw/
+|http://pimg.tw
 ||podcast.co
 ||pure18.com
 ||pytorch.org
@@ -177,7 +177,7 @@
 |https://riseup.net
 ||sadistic-v.com
 ||isc.sans.edu
-|http://search.xxx/
+|http://search.xxx
 ||shiksha.com
 ||slacker.com
 ||sm-miracle.com
@@ -210,10 +210,10 @@
 ||vegasred.com
 ||vevo.com
 ||vip-enterprise.com
-|http://viu.tv/ch/
-|http://viu.tv/encore/
+|http://viu.tv/ch
+|http://viu.tv/encore
 ||vmpsoft.com
-|http://ecsm.vs.com/
+|http://ecsm.vs.com
 ||wanz-factory.com
 ||ssl.webpack.de
 ||wheretowatch.com
@@ -228,12 +228,6 @@
 ||zattoo.com
 ||zim.vn
 ||zozotown.com
-||xn--4gq171p.com
-||xn--czq75pvv1aj5c.org
-||xn--i2ru8q2qg.com
-||xn--oiq.cc
-||xn--p8j9a0d9c9a.xn--q9jyb4c
-||xn--9pr62r24a.com
 ||abebooks.com
 |https://s3.amazonaws.com
 ||s3-ap-southeast-2.amazonaws.com
@@ -492,10 +486,7 @@
 ||bloomberg.com
 ||bloomberg.de
 ||bloombergview.com
-|https://d1b183sg0nvnuh.cloudfront.net
-|https://d1c37gjwa26taa.cloudfront.net
-|https://d3c33hcgiwev3.cloudfront.net
-||d3rhr7kgmtrq1v.cloudfront.net
+||cloudfront.net
 ||dynu.com
 ||accountkit.com
 ||cdninstagram.com
@@ -656,7 +647,7 @@
 ||savethedate.foo
 ||schema.org
 ||shattered.io
-|http://sipml5.org/
+|http://sipml5.org
 ||stories.google
 ||sustainability.google
 ||synergyse.com
@@ -692,7 +683,7 @@
 ||nyt.com
 ||nytcn.me
 ||nytco.com
-|http://nyti.ms/
+|http://nyti.ms
 ||nytimes.com
 ||nytimg.com
 ||nytstyle.com
@@ -757,7 +748,7 @@
 ||solarsystem.nasa.gov
 ||usfk.mil
 ||usmc.mil
-|http://tarr.uspto.gov/
+|http://tarr.uspto.gov
 ||tsdr.uspto.gov
 ||v2ex.com
 ||voacambodia.com
@@ -848,7 +839,7 @@
 ||89-64.org
 ||8964museum.com
 ||8z1.net
-|http://908taiwan.org/
+|http://908taiwan.org
 ||91porn.com
 ||91vps.club
 |http://991.com
@@ -895,7 +886,7 @@
 ||abematv.akamaized.net
 ||linear-abematv.akamaized.net
 ||vod-abematv.akamaized.net
-|https://akamaihd.net/
+|https://akamaihd.net
 |http://akademiye.org
 ||akiba-online.com
 ||akow.org
@@ -979,7 +970,7 @@
 ||asiaharvest.org
 ||asianage.com
 ||asianews.it
-|http://japanfirst.asianfreeforum.com/
+|http://japanfirst.asianfreeforum.com
 ||asiansexdiary.com
 ||asianwomensfilm.de
 ||asiaone.com
@@ -1058,7 +1049,7 @@
 ||bignews.org
 ||bild.de
 |http://biliworld.com
-|http://billypan.com/wiki
+|http://billypan.com
 |http://bit.do
 |http://bit.ly
 ||bitchute.com
@@ -1139,7 +1130,7 @@
 ||business-humanrights.org
 |http://www.businessinsider.com.au
 ||businesstoday.com.tw
-|http://busu.org/news
+|http://busu.org
 ||buzzorange.com
 ||bvpn.com
 ||bwh1.net
@@ -1156,7 +1147,7 @@
 ||camfrog.com
 ||campaignforuyghurs.org
 ||cams.com
-|http://bbs.cantonese.asia/
+|http://bbs.cantonese.asia
 ||canyu.org
 ||caobian.info
 ||caochangqing.com
@@ -1329,8 +1320,8 @@
 ||ctowc.org
 ||cts.com.tw
 ||ctwant.com
-|http://library.usc.cuhk.edu.hk/
-|http://mjlsh.usc.cuhk.edu.hk/
+|http://library.usc.cuhk.edu.hk
+|http://mjlsh.usc.cuhk.edu.hk
 ||cuihua.org
 ||cuiweiping.net
 ||culture.tw
@@ -1389,7 +1380,7 @@
 ||devpn.com
 ||dfas.mil
 ||diaoyuislands.org
-|http://digiland.tw/
+|http://digiland.tw
 ||digitalnomadsproject.org
 ||diigo.com
 ||dilber.se
@@ -1461,11 +1452,11 @@
 ||e-gold.com
 ||e-hentai.org
 |http://e-hentaidb.com
-|http://e-zone.com.hk/discuz
+|http://e-zone.com.hk
 ||e123.hk
 |http://earlytibet.com
 ||earthvpn.com
-|http://www.eastturkistan.net/
+|http://www.eastturkistan.net
 ||eastturkistangovernmentinexile.us
 ||fnc.ebc.net.tw
 ||ecfa.org.tw
@@ -1571,7 +1562,7 @@
 ||favstar.fm
 ||faz.net
 ||fc2cn.com
-|http://uygur.fc2web.com/
+|http://uygur.fc2web.com
 ||fourface.nodesnoop.com
 ||feeder.co
 ||feelssh.com
@@ -1646,8 +1637,8 @@
 ||freeweibo.com
 ||freeyoutubeproxy.net
 ||friendsoftibet.org
-|http://www.zensur.freerk.com/
-|http://adult.friendfinder.com/
+|http://www.zensur.freerk.com
+|http://adult.friendfinder.com
 ||fring.com
 ||frommel.net
 ||frontlinedefenders.org
@@ -1712,7 +1703,7 @@
 ||ghut.org
 |http://giantessnight.com
 ||giga-web.jp
-|http://cn.giganews.com/
+|http://cn.giganews.com
 ||girlbanker.com
 ||git.io
 |http://softwaredownload.gitbooks.io
@@ -1779,7 +1770,7 @@
 ||stephaniered.com
 |http://ub0.cc
 ||gospelherald.com
-|http://hk.gradconnection.com/
+|http://hk.gradconnection.com
 ||grangorz.org
 ||greatfire.org
 ||greatroc.tw
@@ -1803,7 +1794,7 @@
 ||hackmd.io
 ||hackthatphone.net
 ||hakkatv.org.tw
-|http://bbs.hanminzu.org/
+|http://bbs.hanminzu.org
 |http://ae.hao123.com
 |http://ar.hao123.com
 |http://br.hao123.com
@@ -1883,7 +1874,7 @@
 ||hkopentv.com
 ||hkpeanut.com
 ||hkreporter.com
-|http://hkupop.hku.hk/
+|http://hkupop.hku.hk
 ||hkusu.net
 ||hkzone.org
 |http://hmonghot.com
@@ -1894,7 +1885,7 @@
 ||holyspiritspeaks.org
 ||derekhsu.homeip.net
 |http://homeservershow.com
-|http://old.honeynet.org/scans/scan31/sub/doug_eric/spam_translation.html
+|http://old.honeynet.org
 ||hongkongfp.com
 ||hongzhi.li
 ||honven.xyz
@@ -2472,7 +2463,7 @@
 ||ok.ru
 ||okayfreedom.com
 ||okk.tw
-|http://filmy.olabloga.pl/player
+|http://filmy.olabloga.pl
 ||olevod.com
 ||olumpo.com
 ||omct.org
@@ -2693,7 +2684,7 @@
 ||quitccp.org
 |http://quran.com
 ||r0.ru
-|http://ra.gg/
+|http://ra.gg
 ||rael.org
 ||radio.garden
 ||radiohilight.net
@@ -2702,11 +2693,11 @@
 ||radiovncr.com
 ||raggedbanner.com
 ||raidcall.com.tw
-|https://raindrop.io/
+|https://raindrop.io
 |http://raizoji.or.jp
-|http://blog.ranxiang.com/
+|http://blog.ranxiang.com
 ||ranyunfei.com
-|http://rapidgator.net/
+|http://rapidgator.net
 ||rapidmoviez.com
 ||rapidvpn.com
 ||rarbgprx.org
@@ -2741,15 +2732,14 @@
 ||rferl.org
 ||rfi.fr
 ||rfi.my
-|http://vds.rightster.com/
+|http://vds.rightster.com
 ||riku.me
 ||ritter.vg
 ||rlwlw.com
 ||rmbl.ws
 ||robustnessiskey.com
 ||rocket-inc.net
-|http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
-|http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
+|http://www2.rocketbbs.com
 ||rojo.com
 ||ronjoneswriter.com
 ||rolfoundation.org
@@ -2814,7 +2804,7 @@
 ||seevpn.com
 ||seezone.net
 ||sensortower.com
-|http://tweets.seraph.me/
+|http://tweets.seraph.me
 ||sesawe.net
 ||sethwklein.net
 ||sevenload.com
@@ -2993,7 +2983,7 @@
 ||esg.t91y.com
 |http://taa-usa.org
 ||taaze.tw
-|http://www.tablesgenerator.com/
+|http://www.tablesgenerator.com
 ||taedp.org.tw
 ||tagwalk.com
 ||taipeisociety.org
@@ -3002,7 +2992,7 @@
 ||taiwanhot.net
 ||taiwanncf.org.tw
 ||taiwannews.com.tw
-|http://www.taiwanonline.cc/
+|http://www.taiwanonline.cc
 ||taiwantt.org.tw
 ||talkboxapp.com
 ||talkcc.com
@@ -3047,7 +3037,7 @@ tbswd.org
 ||theepochtimes.com
 ||theguardian.com
 ||thegay.com
-|http://thegioitinhoc.vn/
+|http://thegioitinhoc.vn
 ||thehun.net
 ||theinitium.com
 ||themoviedb.org
@@ -3183,7 +3173,7 @@ tbswd.org
 ||slutmoonbeam.com
 |http://blog.soylent.com
 |http://tv.com
-|http://tvboxnow.com/
+|http://tvboxnow.com
 ||tvunetworks.com
 |https://tw-blog.com
 ||twapperkeeper.com
@@ -3224,7 +3214,7 @@ tbswd.org
 ||twiggit.org
 ||twitiq.com
 ||twitlonger.com
-|http://tl.gd/
+|http://tl.gd
 ||twitoaster.com
 ||twitonmsn.com
 ||twit2d.com
@@ -3262,7 +3252,7 @@ tbswd.org
 |http://ubddns.org
 ||uberproxy.net
 ||uc-japan.org
-|http://china.ucanews.com/
+|http://china.ucanews.com
 ||ucdc1998.org
 |http://uchicago.edu
 ||uderzo.it
@@ -3289,8 +3279,8 @@ tbswd.org
 |http://untraceable.us
 ||uocn.org
 ||upghsbc.com
-|http://uploaded.net/file
-|http://uploaded.to/file
+|http://uploaded.net
+|http://uploaded.to
 ||upmedia.mg
 |http://upornia.com
 ||uproxy.org
@@ -3318,7 +3308,7 @@ tbswd.org
 ||uyghurpress.com
 ||uyghurstudies.org
 ||uyghurtribunal.com
-|http://uymaarip.com/
+|http://uymaarip.com
 ||v2fly.org
 ||v2ray.com
 ||v2raycn.com
@@ -3465,7 +3455,7 @@ tbswd.org
 ||wjbk.org
 |http://wn.com
 ||woeser.com
-|http://woesermiddle-way.net/
+|http://woesermiddle-way.net
 |http://wokar.org
 ||wolfax.com
 ||wombo.ai
