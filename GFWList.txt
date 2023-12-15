@@ -1,5 +1,4 @@
 [AutoProxy 0.2.9]
-! HomePage: |github.com/gfwlist/tinylist
 ||akamaihd.net
 ||akamai.net
 ||amazonaws.com
