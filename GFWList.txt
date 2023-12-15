@@ -120,7 +120,6 @@
 ||polymer-project.org
 ||questvisual.com
 ||recaptcha.net
-||recaptcha.net
 ||redhotlabs.com
 ||registry.google
 ||savethedate.foo
@@ -286,7 +285,6 @@
 ||dish.com
 ||dlsite.jp
 ||dmhy.org
-||dmm.com
 ||dnvod.tv
 ||dubox.com
 ||dvdpac.com
@@ -368,7 +366,6 @@
 ||mybet.com
 ||mypikpak.com
 ||nationwide.com
-||www.nbc.com
 ||neo-miracle.com
 ||netflix.net
 ||nic.gov
@@ -454,7 +451,6 @@
 ||zim.vn
 ||zozotown.com
 ||abebooks.com
-||amazonaws.com
 ||43110.cf
 ||9cache.com
 ||9gag.com
@@ -755,10 +751,8 @@
 ||pki.goog
 ||plus.codes
 ||pride.google
-||recaptcha.net
 ||research.google
 ||safety.google
-||sipml5.org
 ||sustainability.google
 ||tfhub.dev
 ||translate.goog
@@ -770,8 +764,6 @@
 ||x.company
 ||youtubekids.com
 ||yt.be
-||nyt.com
-||nyti.ms
 ||steamcommunity.com
 ||steampowered.com
 ||telesco.pe
@@ -837,10 +829,7 @@
 ||wikimedia.org
 ||wikisource.org
 ||wikiquote.org
-||wikipedia.org
 ||flurry.com
-||yahoo.com
-||yahoo.co.jp
 ||yahoo.com.tw
 ||000webhost.com
 ||0rz.tw
@@ -937,7 +926,6 @@
 ||aiweiweiblog.com
 ||ajsands.com
 ||akamaized.net
-||akamaihd.net
 ||akademiye.org
 ||akiba-online.com
 ||akow.org
@@ -1003,7 +991,6 @@
 ||appsto.re
 ||aptoide.com
 ||archive.fo
-||archive.is
 ||archive.li
 ||archive.ph
 ||archive.today
@@ -1461,7 +1448,6 @@
 ||drgan.net
 ||drmingxia.org
 ||dropbooks.tv
-||dropboxapi.com
 ||dscn.info
 ||dstk.dk
 ||dtiblog.com
@@ -1881,7 +1867,6 @@
 ||hkdc.us
 ||hket.com
 ||hkfaa.com
-||hkgalden.com
 ||hkgpao.com
 ||hkip.org.uk
 ||hklts.org.hk
@@ -1968,7 +1953,6 @@
 ||iepl.us
 ||ift.tt
 ||ifcss.org
-||ift.tt
 ||ifreewares.com
 ||igcd.net
 ||igfw.net
@@ -2008,7 +1992,6 @@
 ||innermongolia.org
 ||inoreader.com
 ||inote.tw
-||insecam.org
 ||insecam.org
 ||inside.com.tw
 ||insidevoa.com
@@ -2115,7 +2098,6 @@
 ||kichiku-doujinko.com
 ||kik.com
 ||kindleren.com
-||kindleren.com
 ||kingdomsalvation.org
 ||kingstone.com.tw
 ||kinokuniya.com
@@ -2185,9 +2167,6 @@
 ||lingvodics.com
 ||link-o-rama.com
 ||linkedin.com
-||linksalpha.com
-||linksalpha.com
-||linksalpha.com
 ||linksalpha.com
 ||linux.org.hk
 ||liquidvpn.com
@@ -2309,7 +2288,6 @@
 ||mlzs.work
 ||mmaaxx.com
 ||mobatek.net
-||mobile01.com
 ||mobileways.de
 ||moby.to
 ||mod.io
@@ -2422,7 +2400,6 @@
 ||nmsl.website
 ||nnews.eu
 ||gotdns.ch
-||no-ip.com
 ||nobel.se
 ||nobodycanstop.us
 ||nokogiri.org
@@ -2528,7 +2505,6 @@
 ||patreon.com
 ||pawoo.net
 ||pbworks.com
-||box.net
 ||oauth.net
 ||phonegap.com
 ||jqueryui.com
@@ -3265,7 +3241,6 @@
 ||upmedia.mg
 ||upornia.com
 ||uproxy.org
-||uptodown.com
 ||urbandictionary.com
 ||urbansurvival.com
 ||urlborg.com
@@ -3506,7 +3481,6 @@
 ||yes123.com.tw
 ||yesasia.com
 ||yesasia.com.hk
-||yes-news.com
 ||yespornplease.com
 ||yeyeclub.com
 ||yhcw.net
@@ -3538,7 +3512,6 @@
 ||zalmos.com
 ||zannel.com
 ||zaobao.com
-||zaobao.com.sg
 ||zaobao.com.sg
 ||zdnet.com.tw
 ||zello.com
