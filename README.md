@@ -20,6 +20,9 @@ civitai.com
 Clip Studio Assets-
 clip-studio.com
 
+DongManHuaYuan-
+dongmanhuayuan.com
+
 Epic-
 epicgames.com
 
@@ -43,6 +46,12 @@ googleapis.com
 LibGen-
 libgen.is
 
+llss-
+llss.ws
+
+Nyaa-
+nyaa.si
+
 PornHub-
 pornhub.com
 phncdn.com
@@ -51,12 +60,18 @@ Pixiv-
 pixiv.net
 pximg.net
 
+Playgroundai-
+playgroundai.com
+
 Steam-
 steampowered.com
 
 Telegram Web-
 t.me
 telegram.org
+
+V2ex-
+v2ex.com
 
 Wikipedia-
 wikipedia.org
@@ -71,3 +86,6 @@ xvideos-cdn.com
 Youtube-
 googlevideo.com
 youtube.com
+
+Z-Lib-
+z-lib.org
