@@ -77,6 +77,7 @@ Wikipedia-
 wikipedia.org
 
 xHamster-
+xhcdn.com
 xhamster.com
 
 XVideos-
