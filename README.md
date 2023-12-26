@@ -50,6 +50,13 @@ gstatic.com
 Google Maps-Android-
 googleapis.com
 
+Google Play-
+google.com
+googleapis.com
+googleusercontent.com
+gstatic.com
+gvt1.com
+
 Library Genesis-
 libgen.is
 
