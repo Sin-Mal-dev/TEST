@@ -2,22 +2,14 @@ Abema-
 abema-tv.com
 akamaized.net
 
-Anna Archive-
-annas-archive.gs
-
 ApkPure-
 apkpure.com
 
 Archive-
 archive.org
 
-Bangumi-
-bangumi.moe
-
-Civitai-
-civitai.com
-
 Clip Studio Assets-
+amazonaws.com
 clip-studio.com
 
 DongManHuaYuan-
@@ -34,13 +26,18 @@ github.com
 githubusercontent.com
 
 Gmail-
+google.com
+googleusercontent.com
 gmail.com
 
 Google-
 google.com
+google.com.hk #Country Codes
+
+Chrome News-
 gstatic.com
 
-Google Maps-
+Google Maps APP-
 googleapis.com
 
 LibGen-
@@ -84,8 +81,9 @@ XVideos-
 xvideos.com
 xvideos-cdn.com
 
-Youtube-
+Youtube=
 googlevideo.com
+ytimg.com
 youtube.com
 
 Z-Lib-
