@@ -1,4 +1,4 @@
-Abema #Switch-
+Abema-Switch-
 abema-tv.com
 akamaized.net
 
@@ -34,10 +34,10 @@ Google-
 google.com
 google.com.hk #Country Codes
 
-Google Discover #Android-
+Google Discover-Android-
 gstatic.com
 
-Google Maps #Android-
+Google Maps-Android-
 googleapis.com
 
 Nyaa-
