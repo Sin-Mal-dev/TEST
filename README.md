@@ -1,12 +1,22 @@
 Abema-Switch-
 abema-tv.com
 akamaized.net
+nintendo.com
+
+ACGBox-
+acgbox.link
+
+Annas Aechive-
+annas-archive.gs
 
 ApkPure-
 apkpure.com
 
 Archive-
 archive.org
+
+Bangumi-
+bangumi.moe
 
 Clip Studio Assets-
 amazonaws.com
@@ -40,6 +50,9 @@ gstatic.com
 Google Maps-Android-
 googleapis.com
 
+Library Genesis-
+libgen.is
+
 Nyaa-
 nyaa.si
 
@@ -50,6 +63,9 @@ phncdn.com
 Pixiv-
 pixiv.net
 pximg.net
+
+Playground-
+playgroundai.com
 
 Steam-
 steampowered.com
