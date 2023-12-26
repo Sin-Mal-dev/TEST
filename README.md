@@ -1,4 +1,4 @@
-Abema-
+Abema software-
 abema-tv.com
 akamaized.net
 
@@ -37,14 +37,8 @@ google.com.hk #Country Codes
 Chrome News-
 gstatic.com
 
-Google Maps APP-
+Google Maps software-
 googleapis.com
-
-LibGen-
-libgen.is
-
-llss-
-llss.ws
 
 Nyaa-
 nyaa.si
@@ -57,9 +51,6 @@ Pixiv-
 pixiv.net
 pximg.net
 
-Playgroundai-
-playgroundai.com
-
 Steam-
 steampowered.com
 
@@ -71,6 +62,7 @@ V2ex-
 v2ex.com
 
 Wikipedia-
+wikimedia.org
 wikipedia.org
 
 xHamster-
@@ -85,6 +77,3 @@ Youtube=
 googlevideo.com
 ytimg.com
 youtube.com
-
-Z-Lib-
-z-lib.org
