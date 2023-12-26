@@ -1,4 +1,4 @@
-Abema Switch-
+Abema #Switch-
 abema-tv.com
 akamaized.net
 
@@ -37,7 +37,7 @@ google.com.hk #Country Codes
 Chrome News-
 gstatic.com
 
-Google Maps Android-
+Google Maps #Android-
 googleapis.com
 
 Nyaa-
