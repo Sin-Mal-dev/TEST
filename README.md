@@ -34,7 +34,7 @@ Google-
 google.com
 google.com.hk #Country Codes
 
-Chrome News-
+Google Discover #Android-
 gstatic.com
 
 Google Maps #Android-
