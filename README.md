@@ -88,6 +88,9 @@ Wikipedia-
 wikimedia.org
 wikipedia.org
 
+Wordpress-
+wordpress.com
+
 xHamster-
 xhcdn.com
 xhamster.com
