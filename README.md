@@ -99,4 +99,5 @@ xvideos-cdn.com
 Youtube=
 googlevideo.com
 ytimg.com
+youtu.be
 youtube.com
