@@ -33,6 +33,7 @@ fitgirl-repacks.site
 
 Github-
 github.com
+githubassets.com
 githubusercontent.com
 
 Gmail-
