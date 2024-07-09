@@ -86,7 +86,6 @@ V2ex-
 v2ex.com
 
 Wikipedia-
-wikimedia.org
 wikipedia.org
 
 xHamster-
