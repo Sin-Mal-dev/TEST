@@ -24,6 +24,9 @@ artstation.com
 Bangumi-
 bangumi.moe
 
+BootstrapCDN-
+bootstrapcdn.com
+
 Clip Studio Assets-
 amazonaws.com
 clip-studio.com
@@ -67,6 +70,9 @@ googleapis.com
 googleusercontent.com
 gstatic.com
 gvt1.com
+
+Gravatar-
+gravatar.com
 
 HCaptcha-
 hcaptcha.com
