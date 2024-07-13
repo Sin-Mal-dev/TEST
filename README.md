@@ -15,6 +15,9 @@ apkpure.com
 Archive-
 archive.org
 
+ArkoseLabs-
+arkoselabs.com
+
 Bangumi-
 bangumi.moe
 
@@ -58,8 +61,19 @@ googleusercontent.com
 gstatic.com
 gvt1.com
 
+HCaptcha
+hcaptcha.com
+
 Library Genesis-
 libgen.is
+
+Mod.io
+mod.io
+modcdn.io
+
+NexusMods
+nexus-cdn.com
+nexusmods.com
 
 Nyaa-
 nyaa.si
@@ -75,12 +89,25 @@ pximg.net
 Playground-
 playgroundai.com
 
+Roblox-
+roblox.com
+
+Spotify-
+spotify.com
+
 Steam-
 steampowered.com
 
 Telegram Web-
 t.me
 telegram.org
+
+Twitch-
+twitch.tv
+ttvnw.net #Video Streaming
+
+Ubisoft-
+ubisoft.com
 
 V2ex-
 v2ex.com
