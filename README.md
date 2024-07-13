@@ -28,6 +28,10 @@ clip-studio.com
 DongManHuaYuan-
 dongmanhuayuan.com
 
+DropBox
+dropbox.com
+dropboxusercontent.com
+
 Epic-
 epicgames.com
 
@@ -67,6 +71,11 @@ hcaptcha.com
 Library Genesis-
 libgen.is
 
+Mega-
+mega.co.nz
+mega.io
+mega.nz
+
 Mod.io
 mod.io
 modcdn.io
@@ -77,6 +86,9 @@ nexusmods.com
 
 Nyaa-
 nyaa.si
+
+OneDrive-
+live.com
 
 PornHub-
 pornhub.com
