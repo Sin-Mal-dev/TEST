@@ -18,6 +18,9 @@ archive.org
 ArkoseLabs-
 arkoselabs.com
 
+ArtStation-
+artstation.com
+
 Bangumi-
 bangumi.moe
 
@@ -28,7 +31,7 @@ clip-studio.com
 DongManHuaYuan-
 dongmanhuayuan.com
 
-DropBox
+DropBox-
 dropbox.com
 dropboxusercontent.com
 
@@ -65,8 +68,11 @@ googleusercontent.com
 gstatic.com
 gvt1.com
 
-HCaptcha
+HCaptcha-
 hcaptcha.com
+
+Imgur-
+imgur.com
 
 Library Genesis-
 libgen.is
@@ -76,11 +82,11 @@ mega.co.nz
 mega.io
 mega.nz
 
-Mod.io
+Mod.io-
 mod.io
 modcdn.io
 
-NexusMods
+NexusMods-
 nexus-cdn.com
 nexusmods.com
 
@@ -93,6 +99,11 @@ live.com
 PornHub-
 pornhub.com
 phncdn.com
+
+Pinterest-
+pinimg.com
+pinterest.com
+
 
 Pixiv-
 pixiv.net
