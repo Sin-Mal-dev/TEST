@@ -88,6 +88,9 @@ mega.co.nz
 mega.io
 mega.nz
 
+MicrosoftVisualStudioAppCenter-
+appcenter.ms
+
 Mod.io-
 mod.io
 modcdn.io
@@ -140,6 +143,9 @@ ubisoft.com
 
 V2ex-
 v2ex.com
+
+Vercel-
+vercel.app
 
 Wikipedia-
 wikipedia.org
