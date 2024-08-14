@@ -4,14 +4,14 @@
     },
     "inbounds": [
         {
-            "port": 14159,
+            "port": ,//
             "protocol": "socks",
             "settings": {
                 "auth": "password",
                 "accounts": [
                     {
-                        "user": "14159",
-                        "pass": "14159"
+                        "user": "",//
+                        "pass": ""//
                     }
                 ],
                 "udp": false,
