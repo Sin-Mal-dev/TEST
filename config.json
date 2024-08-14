@@ -17,10 +17,6 @@
                 "udp": false,
                 "ip": "127.0.0.1"
             },
-            "streamSettings": {
-                "network": "tcp",
-                "security": "none",
-            }
         }
     ],
     "outbounds": [
