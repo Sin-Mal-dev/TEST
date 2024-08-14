@@ -11,12 +11,13 @@
                 "accounts": [
                     {
                         "user": "14159",
-                        "pass": "14159"
+                        "pass": "14159",
+                        "userLevel": 0
                     }
                 ],
                 "udp": false,
                 "ip": "127.0.0.1"
-            },
+            }
         }
     ],
     "outbounds": [
