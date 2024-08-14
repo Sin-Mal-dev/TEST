@@ -1,0 +1,30 @@
+{
+    "log": {
+        "loglevel": "none"
+    },
+    "inbounds": [
+        {
+            "port": 14159,
+            "protocol": "socks",
+            "settings": {
+                "auth": "password",
+                "accounts": [
+                    {
+                        "user": "14159",
+                        "pass": "14159"
+                    }
+                ],
+                "udp": false,
+            },
+            "streamSettings": {
+                "network": "tcp",
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        },
+    ]
+}
