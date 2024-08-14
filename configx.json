@@ -11,8 +11,7 @@
                 "accounts": [
                     {
                         "user": "14159",
-                        "pass": "14159",
-                        "userLevel": 0
+                        "pass": "14159"
                     }
                 ],
                 "udp": false,
@@ -24,6 +23,6 @@
         {
             "protocol": "freedom",
             "tag": "direct"
-        },
+        }
     ]
 }
