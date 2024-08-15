@@ -14,7 +14,7 @@
                 ]
             },
             "streamSettings": {
-                "network": "ws",
+                "network": "ws",//splithttp
                 "security": "none"
             }
         }
