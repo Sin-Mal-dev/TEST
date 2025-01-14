@@ -1,0 +1,42 @@
+{
+    "log": {
+        "loglevel": "none"
+    },
+    "inbounds": [
+        {
+            "port": ,//
+            "protocol": "vmess",
+            "settings": {
+                "clients": [
+                    {
+                        "id": ""//
+                    }
+                ]
+            },
+            "streamSettings": {
+                "network": "xhttp",
+                "security": "none"
+            }
+        },
+        {
+            "port": ,//
+            "protocol": "socks",
+            "settings": {
+                "auth": "password",
+                "accounts": [
+                    {
+                        "user": "",//
+                        "pass": ""//
+                    }
+                ],
+                "udp": false
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "protocol": "freedom",
+            "tag": "direct"
+        }
+    ]
+}
